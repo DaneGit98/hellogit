@@ -32,7 +32,7 @@ public class Zad1 {
 			}
 		System.out.println();
 		}
-		//ubacio sam komentar
+		//ubacio sam komentar koji nista ne znaci
 	}
 }
 
