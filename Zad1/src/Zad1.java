@@ -32,6 +32,7 @@ public class Zad1 {
 			}
 		System.out.println();
 		}
+		//ubacio sam komentar
 	}
 }
 
